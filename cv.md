@@ -1,11 +1,11 @@
-# Katerina<br>(Katsiaryna)<br>PIATRENKA<br> 
-![image](./docs/cv-photo.png)   
+# Katerina<br>(Katsiaryna)<br>PIATRENKA # 
+<BR>
 
-|  |Email        *petrenka.katerina@gmail.com* 
----|:---
-|  | Phone *+4206088237748*
-|  | Date of birth     *Jun 28, 1988*
-|  | Nationality      *Belarusian*
+|   |  |Email        *petrenka.katerina@gmail.com* 
+---|---|:---
+|  | | Phone *+4206088237748*
+|  | | Date of birth     *Jun 28, 1988*
+|  | | Nationality      *Belarusian*
 <br>
 
 ### **OBJECTIVE** ###
